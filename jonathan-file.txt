@@ -1,0 +1,6 @@
+This is the file which I created to help
+me learn how to use git better. Git
+is an awesome tool that helps you show
+your programming skills to the world.
+
+hi
